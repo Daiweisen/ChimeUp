@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "549272076745",
+    "project_id": "chimeup-8b7c7",
+    "storage_bucket": "chimeup-8b7c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549272076745:android:5af62412afba9eb0cbe818",
+        "android_client_info": {
+          "package_name": "com.example.chimeup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChKmi7HYKrlOjV87raDaUh5qndr7CaAs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
